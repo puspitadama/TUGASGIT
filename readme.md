@@ -1,2 +1,2 @@
 #tugas git
-Repohistory dari PC lokal
+Repohistory dari PC local
